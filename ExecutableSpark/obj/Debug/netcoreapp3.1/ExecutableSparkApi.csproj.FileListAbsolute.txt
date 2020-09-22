@@ -1,0 +1,13 @@
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\bin\Debug\netcoreapp3.1\ExecutableSparkApi.exe
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\bin\Debug\netcoreapp3.1\ExecutableSparkApi.deps.json
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\bin\Debug\netcoreapp3.1\ExecutableSparkApi.runtimeconfig.json
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\bin\Debug\netcoreapp3.1\ExecutableSparkApi.runtimeconfig.dev.json
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\bin\Debug\netcoreapp3.1\ExecutableSparkApi.dll
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\bin\Debug\netcoreapp3.1\ExecutableSparkApi.pdb
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\obj\Debug\netcoreapp3.1\ExecutableSparkApi.csprojAssemblyReference.cache
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\obj\Debug\netcoreapp3.1\ExecutableSparkApi.AssemblyInfoInputs.cache
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\obj\Debug\netcoreapp3.1\ExecutableSparkApi.AssemblyInfo.cs
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\obj\Debug\netcoreapp3.1\ExecutableSparkApi.csproj.CoreCompileInputs.cache
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\obj\Debug\netcoreapp3.1\ExecutableSparkApi.dll
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\obj\Debug\netcoreapp3.1\ExecutableSparkApi.pdb
+C:\Users\maxde\source\repos\POC-Spark-Docker-NetCore\ExecutableSparkApi\obj\Debug\netcoreapp3.1\ExecutableSparkApi.genruntimeconfig.cache
