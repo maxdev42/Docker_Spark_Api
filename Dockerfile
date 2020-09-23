@@ -10,14 +10,14 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build
 WORKDIR /src
-COPY ["SparkAPI.csproj", "SparkAPI/"]
+COPY ["SparkAPI/SparkAPI.csproj", "SparkAPI/"]
 RUN dotnet restore "SparkAPI/SparkAPI.csproj"
 WORKDIR "/src/SparkAPI"
 COPY . .
-RUN dotnet build "SparkAPI.csproj" -c Release -o /app/publish
+RUN dotnet build "SparkAPI/SparkAPI.csproj" -c Release -o /app/publish
 
 FROM build AS publish
-RUN dotnet publish "SparkAPI.csproj" -c Release -o /app/publish
+RUN dotnet publish "SparkAPI/SparkAPI.csproj" -c Release -o /app/publish
 
 FROM build AS final
 WORKDIR /app/publish
